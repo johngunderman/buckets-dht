@@ -1,0 +1,26 @@
+Buckets: A DHT in Haskell
+=========================
+Based of the Kademlia algorithm.
+
+Authors:
+========
+John Gunderman
+Josh Snyder
+
+
+A Brief Description of the Kademlia Algorithm:
+==============================================
+TODO
+
+
+Project Layout:
+===============
+TODO
+
+
+Building:
+=========
+TODO
+
+
+
